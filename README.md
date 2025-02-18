@@ -14,7 +14,7 @@
   
 </p>
 
-This repository contains a Python implementation of a Convolutional Neural Network (CNN) for recognizing handwritten digits from the MNIST dataset. The code is organized into modules for data loading, preprocessing, model creation, training, and prediction, promoting modularity and reusability. For an every closer look on the steps and analysis please refer to the notebook.
+This repository contains a Python implementation of a Convolutional Neural Network (CNN) for recognizing handwritten digits from the MNIST dataset. For an every closer look on the steps taken please refer to the notebook.
 
 ## Project Structure
 
@@ -63,9 +63,7 @@ mnist-digit-recognition
     ```bash
     pip install -r requirements.txt  # Create a requirements.txt file with necessary libraries.
     ```
-
-    A `requirements.txt` file should be created in the root of the project with the following content:
-
+    `requirements.txt` 
     ```
     numpy
     pandas
@@ -75,7 +73,7 @@ mnist-digit-recognition
 
 3.  **Download the Data:**
 
-    The MNIST dataset is available on Kaggle (Digit Recognizer competition). Download the `train.csv`, `test.csv`, and `sample_submission.csv` files. But I've placed them in the directory named `data` inside the project's root folder.
+    The MNIST dataset is available on Kaggle (Digit Recognizer competition). You can download the `train.csv`, `test.csv`, and `sample_submission.csv` files. But I've placed them in the directory named `data` inside the project's root folder for your convenience.
 
 4.  **Run the Main Script:**
 
@@ -94,7 +92,7 @@ mnist-digit-recognition
 
 ## Usage
 
-The `main.py` script orchestrates the entire process.  Here's a breakdown of how the modules can be used individually:
+The `main.py` script orchestrates the entire process.  Here's a breakdown of how they can be used individually:
 
 1.  **Data Loading:**
 
@@ -150,7 +148,7 @@ The CNN model architecture consists of:
 *   Fully connected (dense) layers.
 *   A softmax output layer for classification.
 
-## Training Details
+## Training
 
 *   **Optimizer:** Adam optimizer.
 *   **Loss Function:** Categorical cross-entropy.
@@ -159,7 +157,7 @@ The CNN model architecture consists of:
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit pull requests or open issues.
+Contributions are welcome! Please feel free to submit pull requests or open issues. I respond on all of my socials so feel free to reach out.
 
 ## License
 <!-- LICENSE -->
