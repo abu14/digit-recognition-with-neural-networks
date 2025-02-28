@@ -14,7 +14,7 @@
   
 </p>
 
-This repository contains a Python implementation of a Convolutional Neural Network (CNN) for recognizing handwritten digits from the MNIST dataset. For an every closer look on the steps taken please refer to the notebook.
+This is recognizing handwritten digits from the MNIST dataset using CNN. For an evern closer look on the steps taken please refer to the notebook.
 
 ## Project Structure
 
