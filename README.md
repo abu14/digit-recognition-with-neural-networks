@@ -1,6 +1,6 @@
 
 
-# MNIST Digit Recognition with CNNs
+## Handwritten Digit Recognition with Convolutional Neural Networks 99.3 Accuracy Score
 
 ![GitHub contributors](https://img.shields.io/github/contributors/abu14/Twitter-Sentiment-Analysis-Prediction)
 ![GitHub forks](https://img.shields.io/github/forks/abu14/Twitter-Sentiment-Analysis-Prediction?style=social)
