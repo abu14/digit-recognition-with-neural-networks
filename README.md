@@ -1,6 +1,6 @@
 
 
-## Handwritten Digit Recognition with Convolutional Neural Networks 99.3 Accuracy Score
+## Handwritten Digit Recognition with Convolutional Neural Networks
 
 ![GitHub contributors](https://img.shields.io/github/contributors/abu14/Twitter-Sentiment-Analysis-Prediction)
 ![GitHub forks](https://img.shields.io/github/forks/abu14/Twitter-Sentiment-Analysis-Prediction?style=social)
@@ -14,7 +14,7 @@
   
 </p>
 
-This is recognizing handwritten digits from the MNIST dataset using CNN. For an evern closer look on the steps taken please refer to the notebook.
+This is recognizing handwritten digits from the MNIST dataset using CNNs with 99.3 Accuracy Score. For an evern closer look on the steps taken please refer to the notebook.
 
 ## Project Structure
 
