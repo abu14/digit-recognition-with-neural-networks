@@ -61,7 +61,7 @@ mnist-digit-recognition
 2.  **Install Dependencies:**
 
     ```bash
-    pip install -r requirements.txt  # Create a requirements.txt file with necessary libraries.
+    pip install -r requirements.txt
     ```
     `requirements.txt` 
     ```
