@@ -63,7 +63,7 @@ mnist-digit-recognition
     ```bash
     pip install -r requirements.txt
     ```
-    `requirements.txt` 
+   
     ```
     numpy
     pandas
