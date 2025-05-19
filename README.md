@@ -54,8 +54,6 @@ mnist-digit-recognition
     ```bash
     git clone https://github.com/abu14/Digit-Recognition-CNN-99.3-Score.git  
     cd Digit-Recognition-CNN-99.3-Score  
-
-    
     ```
 
 2.  **Install Dependencies:**
@@ -63,13 +61,15 @@ mnist-digit-recognition
     ```bash
     pip install -r requirements.txt
     ```
-   
-    ```
-    numpy
-    pandas
-    tensorflow
-    scikit-learn
-    ```
+
+     **Dependencies**
+     
+      ```
+      numpy
+      pandas
+      tensorflow
+      scikit-learn
+      ```
 
 3.  **Download the Data:**
 
